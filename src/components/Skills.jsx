@@ -5,7 +5,7 @@ import project3 from "../assets/Project-recent/resto.jpg";
 
 const projects = [
   {
-    name: "Light-Coding School",
+    name: "Alight-Coding-School",
     image: project1,
     description: "Educational coding platform",
   },
