@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { FaWhatsapp, FaGithub, FaEnvelope, FaTimes } from "react-icons/fa";
 import profilePic from "../assets/Bonane.png";
-import profileVideo from "../assets/Hero_video.mp4";
+import profileVideo from "../../public/hero_video.mp4";
 
 const text = "Creative Design Powerful Code."; // Texte principal animé
 
