@@ -37,9 +37,9 @@ const Home = () => {
     >
       {/* Première carte */}
       <motion.div
-        initial={{ opacity: 0, x: -100 }}
-        animate={{ opacity: 1, x: 0 }}
-        transition={{ duration: 1 }}
+        // initial={{ opacity: 0, x: -100 }}
+        // animate={{ opacity: 1, x: 0 }}
+        // transition={{ duration: 1 }}
         className="rounded-b-lg w-full h-[400px] relative md:w-[300px] p-2 bg-gray-800"
       >
         {/* <h1 className="text-2xl font-bold text-center font-serif">Bonane-BUSOKE</h1> */}
@@ -55,9 +55,9 @@ const Home = () => {
           <p className="text-center mt-1">Full-Stack Web Developer & UI/UX Designer</p>
           <motion.div
             className="mt-1 flex justify-center w-full"
-            initial={{ opacity: 0, y: 50 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 1 }}
+            // initial={{ opacity: 0, y: 50 }}
+            // animate={{ opacity: 1, y: 0 }}
+            // transition={{ duration: 1 }}
           >
             <a
               href="#contact"

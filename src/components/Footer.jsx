@@ -20,7 +20,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto text-center">
         {/* Navigation dans le footer */}
         <nav className="mb-6">
-          <ul className="flex flex-wrap justify-center gap-6 text-lg font-semibold">
+          <ul className="flex flex-wrap justify-center gap-6 text-lg font-semibold ">
             <li>
               <a href="#projects" className="hover:text-blue-400 transition">Recent Projects</a>
             </li>
@@ -41,7 +41,7 @@ const Footer = () => {
 
         {/* Titre Connect with me */}
         <div className="mb-4">
-          <h2 className="text-2xl font-bold">Connect with me</h2>
+          <h2 className="text-2xl font-semibold">Connect with me</h2>
         </div>
 
         {/* Icônes des réseaux sociaux avec PopUp */}
