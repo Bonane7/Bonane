@@ -41,7 +41,7 @@ const Footer = () => {
 
         {/* Titre Connect with me */}
         <div className="mb-4">
-          <h2 className="text-2xl font-semibold">Connect with me</h2>
+          <h2 className="text-2xl font-semibold text-gray-400">Connect with me.</h2>
         </div>
 
         {/* Icônes des réseaux sociaux avec PopUp */}
