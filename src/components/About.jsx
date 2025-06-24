@@ -18,7 +18,7 @@ const About = () => {
               <FaUser className="text-blue-500 text-center" /> About Me
             </h2>
             <p className="mt-2 text-gray-300 text-left">
-              I am <span className="text-blue-400 font-bold">Bonane BUSOKE</span>, 
+              I am <span className="text-blue-400 font-bold">BUSOKE Bonane</span>, 
               a passionate Fullstack Web Developer with a strong focus on creating modern, 
               intuitive, and user-centered digital experiences. My expertise spans
               <span className="font-semibold text-white">UI/UX Design (Figma)</span>,
